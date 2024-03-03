@@ -1,0 +1,8 @@
+table1 result:
+python lstm+encoder mul-FEA.py
+
+table2 result:
+python lstm+encoder mul-OFEA.py
+
+table3 result:
+python lstm+encoder mul case.py
