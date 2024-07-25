@@ -1,4 +1,4 @@
-1 model download
+1 model and data download
 
 https://huggingface.co/Minami-su/nBAT
 
